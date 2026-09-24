@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /notify
+
+Sitemap: https://frostlineservers.tech/sitemap.xml
